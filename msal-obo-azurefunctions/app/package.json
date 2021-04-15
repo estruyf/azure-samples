@@ -1,0 +1,17 @@
+{
+  "name": "msal-obo-azurefunctions-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Elio Struyf",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/msal-node": "1.0.2",
+    "express": "4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}

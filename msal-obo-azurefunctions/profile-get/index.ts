@@ -5,7 +5,7 @@ import { ConfidentialClientApplication, OnBehalfOfRequest } from "@azure/msal-no
 import fetch from "node-fetch";
 
 // For simplicity the config has been added to the function
-// When using this in production, make sure to move these keys to Azure KeyVault
+// When using this in production, make sure to move these keys to Azure Key Vault
 const config = {
   auth: {
     clientId: "<client-id>",

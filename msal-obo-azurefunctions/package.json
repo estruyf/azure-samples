@@ -19,7 +19,6 @@
     "typescript": "^3.3.3"
   },
   "dependencies": {
-    "@azure/msal-common": "4.2.0",
     "@azure/msal-node": "1.0.2",
     "jsonwebtoken": "8.5.1",
     "jwks-rsa": "2.0.2",
