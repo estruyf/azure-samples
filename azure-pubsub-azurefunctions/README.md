@@ -2,7 +2,7 @@
 
 This is a sample which you can use to generate a Azure Web PubSub token URL. This can be used for opening a WebSocket connection on the client-side.
 
-More information on how you can use this sample can be found here: [#DevHack: Authentication for Azure Web PubSub with Azure Functions]().
+More information on how you can use this sample can be found here: [#DevHack: Authentication for Azure Web PubSub with Azure Functions](https://www.eliostruyf.com/devhack-authentication-azure-web-pubsub-azure-functions/).
 
 ## Usage
 
